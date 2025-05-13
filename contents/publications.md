@@ -1,5 +1,3 @@
-# publications
-
 ### Master's Research
 
 **Y Wei**, **An Innovative Method for Multi-Effect Speech Synthesis through Training File Modification**, Master thesis, Voice Technology (VT) 2024
