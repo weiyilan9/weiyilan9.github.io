@@ -36,7 +36,7 @@ My watercolor paintings are poetic dialogues between travel memories and inner v
 
 <figure style="text-align: center; margin: 20px auto;">
     <img src="../static/assets/img/icelandic_wild_horses.jpg" alt="Icelandic Wild Horses" style="width: 35%; max-width: 600px; display: block; margin: 0 auto;">
-    <figcaption style="margin-top: 10px; font-style: italic; color: #666;">Icelandic Wild Horses (2024)  Yilan Wei</figcaption>
+    <figcaption style="margin-top: 10px; font-style: italic; color: #666;">Icelandic Wild Horses (2024) </figcaption>
 </figure>
 
 As a passionate traveler, I have journeyed across nearly 20 countries spanning Asia, Europe, Africa, North America, and South America. Each voyage has been an exploration of both mind and culture. From the winding canals and charming windmills of Amsterdam in the Netherlands to the azure icebergs of Jökulsárlón Glacier Lagoon and galloping wild horses of Iceland; from the ancient pyramids and mysterious pharaonic civilization along Egypt's Nile River to the graceful alpacas and awe-inspiring Incan ruins in Peru's Andean mountains—these journeys have allowed me to witness nature's wonders and magnificence while deeply experiencing the rich cultural diversity across the globe.
