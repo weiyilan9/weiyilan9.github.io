@@ -1,4 +1,4 @@
-### Research Experience
+# Research Experience
 
 ## Research Development Trajectory
 
